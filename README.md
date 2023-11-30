@@ -15,6 +15,7 @@ To get a copy of this project up and running on your local machine, follow these
 Clone this repository:
 
 git clone https://github.com/Yimiika/Multiplication-game.git
+
 Open the project folder.
 
 How to Play
@@ -31,6 +32,7 @@ Game Rules
 
 
 Demo
+
 You can view still images of the game here.
 ![image](https://github.com/Yimiika/Multiplication-game/assets/121867873/f35e943c-0977-4a4b-8277-2bab9b005524)
 
@@ -43,4 +45,5 @@ Built With
 - CSS
 
 Contributing
+
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. Your contributions are always welcome!
