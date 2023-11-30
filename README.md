@@ -14,7 +14,7 @@ To get a copy of this project up and running on your local machine, follow these
 
 Clone this repository:
 
-git clone https://github.com/your-username/multiplication-game.git
+git clone https://github.com/Yimiika/Multiplication-game.git
 Open the project folder.
 
 How to Play
